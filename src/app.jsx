@@ -1,6 +1,5 @@
 export default function App(){
-return {
+return ( 
   <h1> Hello word! </h1>
-}
-  
+ );
 }
